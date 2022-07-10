@@ -56,4 +56,4 @@ CREATE TABLE `admin` (
    `name` varchar(200) DEFAULT NULL,
    `email` varchar(200) DEFAULT NULL,
    PRIMARY KEY (`username`)
- )
+ ) 
